@@ -13,7 +13,7 @@ N/A
 
 To use this Prework Study Guide, you can refer to the notes in each section. For a suggestion on what to study first, open the console by pressing F12 or right clicking and selecting "inspect".
 
-![alt text](assets/images/screenshot.png)
+![screenshot](assets/images/screenshot.png)
 
 ## Credits
 
